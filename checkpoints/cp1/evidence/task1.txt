@@ -1,0 +1,57 @@
+﻿=== CPU ===
+
+
+Name                          : 13th Gen Intel(R) Core(TM) i5-13420H
+NumberOfCores                 : 8
+NumberOfLogicalProcessors     : 12
+VirtualizationFirmwareEnabled : False
+
+
+
+
+=== MEMORY ===
+
+
+TotalVisibleMemorySize : 16457592
+FreePhysicalMemory     : 5044572
+
+
+
+
+=== DISK ===
+
+
+FriendlyName : KINGSTON OM8PGP4512Q-AA
+MediaType    : SSD
+Size         : 512110190592
+
+
+
+
+
+
+DriveLetter   : C
+Size          : 510906068992
+SizeRemaining : 22261321728
+
+
+
+
+
+
+Number         : 0
+PartitionStyle : GPT
+
+
+
+
+=== OS ===
+
+
+Caption     : Майкрософт Windows 11 Pro
+Version     : 10.0.26200
+BuildNumber : 26200
+
+
+
+
